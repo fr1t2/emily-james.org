@@ -1,0 +1,48 @@
+- name: Wedding Shower
+  date: Thursday, May 26, 2024
+  time: 7pm
+  attire: Casual
+  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
+  transportation:
+  location:
+    address: 123 some Rd
+    city: Denver
+    state: CO
+    long_state: Colorado
+    zip: 80218
+    coordinates: 41.911652,-87.641253
+    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+    venue_name:
+
+- name: Wedding Ceremony
+  main_event: true
+  date: 2024-07-15 17:00:00 -04:00
+  endDate: 2024-07-15 21:00:00 -04:00
+  attire: Mountain Rustic Casual
+  description: Our wedding ceremony will be in a private, seculded moun5tain retreat high in the Rocky Mountains. Due to the limited space and remote location guests are limited. While we are saddend that you all wont be able to join us, we intend to share the event with our friends and family through a live stream (service depending) and videop recordings.
+  transportation:
+  shuttle:
+  location:
+    address: 1766 Lower Broadview Rd
+    city: Estes Park
+    state: CO
+    long_state: Colorado
+    zip: 80517
+    coordinates: 40.38099769046446,-105.55336722770005 
+    google_maps_url: https://www.google.com/maps/place/Romantic+RiverSong+Inn/@40.357452,-105.554741,10z/data=!4m9!3m8!1s0x8769650e82e1c1b9:0x9dda071f18c24844!5m2!4m1!1i2!8m2!3d40.3574523!4d-105.5547409!16s%2Fg%2F1tywyff3?hl=en-US&entry=ttu
+    venue_name: Romantic River Song
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact James Gordon.
+
+- name: Reception
+  date_alt: Immediately following the ceremony
+  attire: snappy casual
+  description: The wedding reception is going to be held in a local pub, very casual. Please feel free to join us for the celebration after the wedding. 
+  location:
+    address: 1766 Lower Broadview Rd
+    city: Estes Park
+    state: CO
+    long_state: Colorado
+    zip: 80517
+    coordinates: 40.38099769046446,-105.55336722770005 
+    google_maps_url: https://www.google.com/maps/place/Romantic+RiverSong+Inn/@40.357452,-105.554741,10z/data=!4m9!3m8!1s0x8769650e82e1c1b9:0x9dda071f18c24844!5m2!4m1!1i2!8m2!3d40.3574523!4d-105.5547409!16s%2Fg%2F1tywyff3?hl=en-US&entry=ttu
+    venue_name: Romantic River Song
