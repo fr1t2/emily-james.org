@@ -1,3 +1,33 @@
 ---
 ---
 
+
+/* Custom styles for evenly spaced buttons */
+.button-section {
+    padding: 20px;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.button-section .button {
+    flex: 0 0 calc(50% - 20px); /* 50% width with space between buttons */
+    text-align: center;
+}
+
+.left-row .button {
+    order: 1; /* Ensures buttons in the left row appear first */
+}
+
+.right-row .button {
+    order: 2; /* Ensures buttons in the right row appear second */
+}
+
+@media (min-width: 768px) {
+    .button-section .button {
+        flex: 0 0 calc(33.33% - 20px); /* 33.33% width with space between buttons on larger screens */
+    }
+}

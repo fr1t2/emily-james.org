@@ -1,16 +1,22 @@
 #google_analytics_id: G-X0BJ20T7XR
 
-hero_image: assets/img/flowers.jpg
+#hero_image: assets/img/flowers.jpg
+hero_image: assets/img/riversong/hero-1.webp
 hero_position: center center
-# mobile_hero_image: assets/img/bell.jpg
-# mobile_hero_position: center center
+#mobile_hero_image: assets/img/bell.jpg
+#mobile_hero_position: center center
 
 theme:
-  # text_color: '#404040'
-  primary_color: '#d98560'
-  # secondary_color: '#a2a183'
-  # accent_color: '#afa63d'
-  # background_color: '#ffff'
+#  text_color: '#404040'
+#  primary_color: '#d98560'
+#  secondary_color: '#a2a183'
+#  accent_color: '#afa63d'
+#  background_color: '#ffff'
+  text_color: '#343434'
+  primary_color: '#7fe8f6'
+  secondary_color: '#86d8f7'
+  accent_color: '#c47dae'
+  background_color: '#ffff'
 
 rsvp:
   use_code: true

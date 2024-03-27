@@ -39,3 +39,19 @@ exclude:
 
 compress_images:
   images_path: "{assets,photos}/**/*.{gif,png,jpg,jpeg,svg}"
+
+paypal_link: "https://www.paypal.com/donate/?business=JZ9YDB4CQELJ4&no_recurring=0&item_name=Wedding+Fund+Raise%21&currency_code=USD"
+
+registries:
+  - name: Amazon
+    url: amazon.com
+    icon: "fa fa-amazon"
+  - name: Target
+    url: target.com
+    icon: "fa fa-bullseye"
+  - name: Crate & Barrel
+    url: https://www.crateandbarrel.com/
+    icon: "fa fa-chair"
+  - name: Macy's
+    url: https://www.macys.com/
+    icon: "fa fa-star"

@@ -1,27 +1,27 @@
-- name: Wedding Shower
-  date: Thursday, May 26, 2024
-  time: 7pm
-  attire: Casual
-  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
-  transportation:
-  location:
-    address: 123 some Rd
-    city: Denver
-    state: CO
-    long_state: Colorado
-    zip: 80218
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+#- name: Wedding Shower
+#  date: Thursday, May 26, 2024
+#  time: 7pm
+#  attire: Casual
+#  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
+#  transportation:
+#  location:
+#    address: 123 some Rd
+#    city: Denver
+#    state: CO
+#    long_state: Colorado
+#    zip: 80218
+#    coordinates: 41.911652,-87.641253
+#    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+#    venue_name:
 
 - name: Wedding Ceremony
   main_event: true
   date: 2024-07-15 17:00:00 -04:00
   endDate: 2024-07-15 21:00:00 -04:00
   attire: Mountain Rustic Casual
-  description: Our wedding ceremony will be in a private, seculded moun5tain retreat high in the Rocky Mountains. Due to the limited space and remote location guests are limited. While we are saddend that you all wont be able to join us, we intend to share the event with our friends and family through a live stream (service depending) and videop recordings.
-  transportation:
-  shuttle:
+  description: Our wedding ceremony will be in a private, seculded retreat high in the mountains just outside of the Rocky Mountain National Park. Due to the limited space and remote location guests are limited. While we are saddend that you all wont be able to join us, we intend to share the event with our friends and family through a live stream (*service depending*) and videop recordings.
+#  transportation:
+#  shuttle:
   location:
     address: 1766 Lower Broadview Rd
     city: Estes Park

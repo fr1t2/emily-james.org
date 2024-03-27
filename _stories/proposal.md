@@ -1,27 +1,14 @@
 ---
 order: 3
-image: assets/img/chairs2.jpg
+image: assets/img/riversong/rings.webp
 image_position: bottom
 ---
 ### The proposal
 
-Chris decided he wanted to propose to Nikita soon after he moved
-to Chicago.  He decided to propose where their relationship began
-– at their 5-year Stanford reunion. With the help of his parents,
-he chose a ring on a family trip to Hong Kong and hid it in his
-closet for months. He coordinated with Nikita’s girlfriends to
-come up with the perfect proposal. True to form, Nikita repeatedly
-changed her plans that weekend, forcing Chris to adjust and
-re-adjust his proposal. On the final morning of reunion weekend,
-Nikita set out on foot to meet a friend at the Oval to take some
-engagement pictures for her and her new fiancé (the latest ruse).
-Little did she know that her friends were waiting around the
-corner to whisk Chris over to the Oval by car.  Nikita obliviously
-walked to the Oval, where she found Chris waiting for her.  Chris
-nervously rushed through his speech, maneuvering Nikita around the
-crowd of tourists that had suddenly appeared, and got down on one
-knee. Nikita started blubbering, but made sure to say an audible
-“yes” before he slipped the ring on her finger.  Nikita’s friends
-poured out of their cars, where they had been surreptitiously
-recording the whole event on their phones. And, just like that,
-they started the countdown to #BacligVashi2016.
+
+
+While we have lived under an unspoken vow of commitment and promise to each other it is finally time to make this official! Emily had wanted to go to this holiday lights event every year, but we kept missing the hard to get tickets every year. James decided enough was enough! He worked out a sitter for the kids, booked tickets to the festival at the [local botanical gardens](https://www.botanicgardens.org/events/special-events/blossoms-light) and bought a ring.
+
+With hot cider in hand, and stockings on our heads while we walked through the thousands of holiday lights decorating the snow covered landscape on what Emily thought was a nice date night, but nothing special. 
+In a space just off from the bustling of holiday crowd, James got on one knee and presented Emily with the ring. He asked to have her hand and heart for the rest of their lives offering his in return. 
+Emily accepted immediately slipping the ring on her finger as tears of joy ran down their faces.

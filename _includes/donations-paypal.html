@@ -1,0 +1,32 @@
+{% if site.donations.paypal %}
+    <!-- Donations Section -->
+
+    <div class="col-lg-6">
+      <h2>Donations and Gifts</h2>
+      <div class="donation-item mb-3">
+        <label class="mr-2"><i class="{{ site.config.donations.paypal.icon }}"></i></label>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="JZ9YDB4CQELJ4" />
+<input type="hidden" name="no_recurring" value="0" />
+<input type="hidden" name="item_name" value="Wedding Fund Raise!" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+      </div>
+
+      <!-- Additional Donation Links -->
+      {% for donation in site.config.additional_donations %}
+        <div class="donation-item mb-2">
+          <label class="mr-2"><i class="{{ site.config.donations.icon }}"></i> {{ donation.name }}:</label>
+          <a href="{{ donation.url }}" target="_blank" class="btn btn-secondary btn-block">
+            {{ donation.name }}
+          </a>
+        </div>
+      {% endfor %}
+
+    </div>
+
+
+{% endif %}
